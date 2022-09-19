@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test_package.Constructure&apos; to &apos;Constructor&apos;&#x0D;&#x0A;- Original project: &apos;Test_Project&apos;&#x0D;&#x0A;- Original element: &apos;test_package.Constructure&apos;&#x0D;&#x0A;- Renamed element: &apos;test_package.Constructor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Constructure&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;test_package{Constructure.java[Constructure" matchStrategy="1" name="Constructor" qualified="false" references="true" similarDeclarations="false" stamp="1656323604607" textual="false" version="1.0"/>
+</session>

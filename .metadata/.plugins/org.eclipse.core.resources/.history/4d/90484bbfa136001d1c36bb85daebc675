@@ -1,0 +1,11 @@
+package chrome;
+
+public class MouseActions2 
+{
+	public static void main(String[] args)
+	{
+		
+		
+	}
+
+}
